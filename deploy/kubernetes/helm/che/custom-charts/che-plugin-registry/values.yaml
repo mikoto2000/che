@@ -8,7 +8,7 @@
 #
 
 chePluginRegistry:
-  image: quay.io/eclipse/che-plugin-registry:nightly
+  image: mikoto2000/che-plugin-registry:toppers_conference_2020
   imagePullPolicy: Always
   memoryLimit: 256Mi
   memoryRequests: 16Mi
